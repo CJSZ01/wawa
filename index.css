@@ -1,0 +1,83 @@
+body {
+    font-family: "Oswald", sans-serif;
+}
+.header {
+    text-align: center;
+    font-size: 32pt;
+}
+.main {
+    background-color: #795548;
+    height: 73vh;
+    text-align: center;
+}
+.block-1 {
+    background-color: #8d6e63;
+    width: 256pt;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4pt;
+    border: white;
+    border-width: 4pt;
+    border-style: solid;
+}
+.block-2 {
+    background-color: #8d6e63;
+    width: 256pt;
+    margin-top: 0pt;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4pt;
+    border: white;
+    border-width: 4pt;
+    border-style: solid;
+}
+.block-3 {
+    background-color: #8d6e63;
+    width: 256pt;
+    margin-top: 0pt;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4pt;
+    border: white;
+    border-width: 4pt;
+    border-style: solid;
+}
+.column-1 {
+    position: absolute;
+    top: 140pt;
+    left: 220pt;
+    color: white;
+    padding: 4pt;
+    background-color: #4e342e;
+    border: white;
+    border-width: 4pt;
+    border-style: solid;
+    width: 128pt;
+    height: fit-content;
+}
+.column-2 {
+    position: absolute;
+    top: 140pt;
+    right: 220pt;
+    color: white;
+    padding: 4pt;
+    background-color: #4e342e;
+    border: white;
+    border-width: 4pt;
+    border-style: solid;
+    width: 128pt;
+    height: fit-content;
+}
+.shrug{
+    margin-top: 8pt;
+    font-size: 64pt;
+    color: white;
+}
+.footer {
+    font-style: normal !important;
+    font-family: "Oswald", sans-serif;
+    color: #cfd8dc;
+    background-color: #4e342e;
+    text-align: center;
+    padding: 16pt;
+}
